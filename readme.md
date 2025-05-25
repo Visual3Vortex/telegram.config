@@ -38,6 +38,7 @@ geosite:anthropic
 geosite:openai
 geosite:clubhouse
 geosite:netflix
+geosite:disneyplus
 geosite:nvidia
 geosite:intel
 geosite:amd
